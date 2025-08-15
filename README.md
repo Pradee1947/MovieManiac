@@ -1,3 +1,6 @@
+![image alt](https://github.com/Pradee1947/MovieManiac/blob/main/m1.png)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
